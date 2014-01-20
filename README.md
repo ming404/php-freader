@@ -4,6 +4,8 @@ PHP Freader is a replacement product (sort of) to Google Reader which cease serv
 
 PHP Freader is built with latest technology like HTML5, JQuery and BootstrapJS.
 
+![](http://www.php-freader.org/wp-content/uploads/2013/06/overview1.png)
+
 ##Demo and Installtion Guide
 [Demo](http://demo.php-freader.org/) | [Installation](http://www.php-freader.org/installation/)
 
@@ -30,6 +32,3 @@ PHP Freader is built with latest technology like HTML5, JQuery and BootstrapJS.
 - Support future releases detection
 - Implemented clean job which to be set as cron job and clean up periodically
 - Allow user registrations (turn off by default, turn on via config.php) and login
-
-##Support
-[Log a ticket](http://support.php-freader.org/)
